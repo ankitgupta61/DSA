@@ -19,8 +19,6 @@ public class Counting1InSortedBinaryArray {
                 count1(arr, m+1, e);
             }
         }
-
-
     }
     public static void main(String[] args) {
         int[] arr = {1};
